@@ -52,6 +52,6 @@ $composerAutoloader = include $vendorAutoload;
 AutoloaderRegistry::registerAutoloader(new ClassLoaderWrapper($composerAutoloader));
 
 
-function test(){
+function xxxx(){
     
 }
