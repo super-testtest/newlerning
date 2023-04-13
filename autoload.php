@@ -50,3 +50,6 @@ if ($vendorAutoload === null) {
 
 $composerAutoloader = include $vendorAutoload;
 AutoloaderRegistry::registerAutoloader(new ClassLoaderWrapper($composerAutoloader));
+
+
+echo "hi";
