@@ -53,3 +53,5 @@ AutoloaderRegistry::registerAutoloader(new ClassLoaderWrapper($composerAutoloade
 
 
 echo "hi";
+
+echo "test2";
